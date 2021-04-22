@@ -13,4 +13,8 @@ public class Utility {
 		System.out.println("1234abdc");
 
 	}
+	public void m5()
+	{
+		System.out.println("m5 methods");
+	}
 }
